@@ -1,0 +1,5 @@
+Dentro de mopa txt se localiza as maiores palavras de todo o dicionario 
+uau 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lorem eros, tempus aliquam sapien gravida, accumsan ornare augue. Fusce at hendrerit lorem. Praesent vestibulum tincidunt massa vel bibendum. Duis et nunc ante. Vivamus posuere massa vel ligula efficitur sollicitudin. Cras varius volutpat velit, sed sagittis velit eleifend eget. Etiam in pellentesque augue, ac dictum ante.
+
+Duis venenatis nec erat non cursus. Ut sit amet lobortis ex. Cras auctor convallis posuere. Morbi et viverra nibh, vitae vulputate mauris. Suspendisse metus lorem, commodo quis sapien quis, euismod interdum velit. Vestibulum et dolor at quam aliquam aliquet. Sed eget risus ornare, posuere risus vitae, vehicula neque. In erat velit, ornare egestas neque vitae, tempor molestie purus. Sed dictum sollicitudin condimentum. Vestibulum semper lacus at velit egestas suscipit. Vivamus ac mauris vitae ipsum viverra laoreet eu feugiat sem.
